@@ -1,6 +1,6 @@
 
 
- 即将裸辞,上传个demo压压惊
+
 云台手柄:
         class->HandleView
         直接 alloc init   自定义手柄大小  通过代理接收方向返回消息<HandleDelegate> 有8个方向.
